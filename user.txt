@@ -1,8 +1,4 @@
 
 This is my fist file for git hub 12
-econd
+second file for git hub 133
 
-This is my fist file for git hub 133
-
-
-new line
